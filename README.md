@@ -2,16 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome🤩&animation=fadeIn&fontColor=000000&fontSize=70" />
 </div>
 
-## Hi there 👋 I'm Sohyeon Kim aka SOSO
-### I'm the FullStack Developer and Software Engineer
+## Hi there 👋 I'm Sohyeon Kim, aka SOSO
+### A Full-Stack Developer and Software Engineer
 
 - 🎓 Majoring in Computer Science
-- 👀 I'm currently focusing on <strong>Web</strong> and <strong>Android development</strong>
-- I ❤️ Computer games, Volleyball, Fishing, and Three-Cushion Billiards <br><br>
+- 👀 Currently focusing on <strong>Web</strong> and <strong>Android development</strong>
+- ❤️ Passionate about computer games, volleyball, fishing, and three-cushion billiards<br><br>
 
-### >> This is my [Personal Website](http://prathameshgiri.me/) ✨ <br><br>
+### >> Check out my [Personal Website](http://prathameshgiri.me/) ✨ <br><br>
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
